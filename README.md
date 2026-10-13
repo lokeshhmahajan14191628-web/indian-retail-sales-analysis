@@ -1,0 +1,1 @@
+An end-to-end data analytics project using Python for data cleaning and Power BI for visualization. Here is a raw_indian_sales file which cleaned . lokeshh.py contains the code to clean. clean_indian_sales contain cleaned file. power bi pro contains dashboard
